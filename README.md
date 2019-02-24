@@ -1,4 +1,4 @@
 # Simple pipelines
 
-Define pipelines of execution by configuration
+Simple project to just execute a list of steps based on configuration
 

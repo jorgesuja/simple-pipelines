@@ -1,3 +1,7 @@
+package steps
+
+import pipelines._
+
 import scala.collection.immutable.HashMap
 
 object SecondStep extends Step {

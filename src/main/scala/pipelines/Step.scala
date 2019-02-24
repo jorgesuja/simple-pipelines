@@ -1,3 +1,5 @@
+package pipelines
+
 import scala.collection.immutable.HashMap
 
 trait Step {
